@@ -103,7 +103,8 @@ Sample Chat Interaction:
 User: hi
 Assistant: [Falcon 7B Instruct]: I received your prompt 'hi'. I am an open-source autoregressive decoder-only model developed by TII.
 ```
-<img width="727" height="351" alt="image" src="https://github.com/user-attachments/assets/9ebbe276-a7f2-4c08-93ee-38a246d3c29b" />
+<img width="1219" height="364" alt="image" src="https://github.com/user-attachments/assets/e732b302-bc94-48c1-bcbf-d9f538b4b654" />
+
 
 ## RESULT
 Thus, the "Chat with LLM" application was successfully designed and deployed using the Gradio Blocks framework, enabling real-time, interactive, and multi-turn conversations with a Large Language Model.
